@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1Var58_Task5", "Lab1Var58_Task5.csproj", "{B2E14F9C-1B6F-4CDE-9509-7F5F3788E332}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{5A67AAAF-5AF0-4587-AE69-2FC804B5102D}"
+	ProjectSection(SolutionItems) = preProject
+		NewText.txt = NewText.txt
+		Task5_Var18.png = Task5_Var18.png
+		Text.txt = Text.txt
+		Задача_5_Строки.pdf = Задача_5_Строки.pdf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2E14F9C-1B6F-4CDE-9509-7F5F3788E332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E14F9C-1B6F-4CDE-9509-7F5F3788E332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E14F9C-1B6F-4CDE-9509-7F5F3788E332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E14F9C-1B6F-4CDE-9509-7F5F3788E332}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
